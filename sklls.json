@@ -1,9 +1,4 @@
 {	
   "information about the skills to be learned": 
-  "- Terminal
-	- Postman
-	- Git
-  - DevTools
-	- Сборки и дебага мобильных приложений из исходников с помощью Android Studio и XCode
-	- Понимание архитектуры клиент-серверных приложений"
+  "- Terminal; Postman; Git; DevTools; Сборки и дебага мобильных приложений из исходников с помощью Android Studio и XCode;Понимание архитектуры клиент-серверных приложений"
 }
